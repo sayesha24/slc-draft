@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    background-color: rgb(192, 246, 192);
+
+  }
+
+  .heading{
+
+    position: relative;
+    margin-bottom: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    background-color: rgb(89, 179, 167);
+    padding-top: 20px;
+    padding-bottom: 10px;
+  }
+
+  .img1{
+
+    position: relative;
+    margin-left: 50px;
+  }
+
+  .intro{
+
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(157, 187, 60);
+    width: 800px;
+    padding: 30px;
+    position: relative;
+    left: 900px;
+    top: -400px;
+    color: black;
+  }
+
+  .achievements{
+
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+    background-color: rgb(212, 231, 39);
+    
+  }
+
+  .achievements p{
+
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  .achievements h3{
+
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration-line: underline;
+  }
+
+  .img2{
+
+    position: relative;
+    left: 1300px;
+    top: 1px;
+    
+  }

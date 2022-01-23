@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    background-color: rgb(217, 173, 231);
+
+  }
+
+  .heading{
+
+    position: relative;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    background-color: rgb(182, 126, 245);
+  }
+
+  .intro{
+
+    position: relative;
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(204, 141, 141);
+    width: 600px;
+    padding: 30px;
+    left: 1100px;
+    bottom: 350px;
+
+  }
+
+  .goals{
+
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: -100px;
+    margin-bottom: 200px;
+    background-color: rgb(216, 137, 205);
+  }
+
+  .goals p{
+
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  .goals h3{
+
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration-line: underline;
+  }
+
+  .img1{
+
+    position: relative;
+    left: 60px;
+    margin-top: 90px;
+  }
+
+  .img2{
+
+    position: relative;
+    left: 1200px;
+  }
